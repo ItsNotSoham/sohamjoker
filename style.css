@@ -1,0 +1,8 @@
+.c{width: 100%;margin-top: 0;font-size: 50px;box-shadow: 5px 5px 5px black;font-family: 'Times New Roman', Times, serif;}
+.d:hover{font-size: x-large; color: black;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+canvas{
+    animation-name:soham ;animation-duration: 3s;animation-iteration-count: infinite;
+}
+@keyframes soham{
+    from{box-shadow: 5px 5px 40px rgb(71, 177, 220);}to{box-shadow: 5px 5px 40px rgb(233, 135, 151);}
+}
